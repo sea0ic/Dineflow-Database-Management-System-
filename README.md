@@ -28,7 +28,8 @@ This project explores the complete process of building a **Database Management S
 The **EER design and database logic** were developed with the support of AI tools to simulate realistic restaurant workflows and entity relationships. Through this project, I gained practical understanding of **end-to-end DBMS design**, including conceptual modeling, relational mapping, and SQL implementation.
 
 ### Repository Contents
-- `DINEFLOW - Project Overview And User Needs Analysis.pdf` — Detailed analysis of user needs and system functions  
+- `DINEFLOW - Project Overview And User Needs Analysis.pdf` — Detailed analysis of user needs and system functions
+- Entity-Relationship Diagram - visualizes all key entities, relationships, and constraints in the DineFlow database.  
 - SQL Scripts — Includes database schema, functions, and triggers  
 
 ### Author
