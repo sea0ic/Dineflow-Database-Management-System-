@@ -42,5 +42,3 @@ Basically, this project is my way of learning how a database management system c
 ### Author
 
 **Mansi Uday Bhavsar**
-Computer Science Student
-
